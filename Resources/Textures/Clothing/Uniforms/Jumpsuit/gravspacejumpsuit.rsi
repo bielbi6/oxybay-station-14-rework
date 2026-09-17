@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "license": null,
+    "copyright": null,
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "inhand-right"
+        },
+        {
+            "name": "equipped-INNERCLOTHING"
+        },
+        {
+            "name": "icon"
+        },
+        {
+            "name": "inhand-left"
+        },
+        {
+            "name": "trinkets-equipped-INNERCLOTHING"
+        },
+        {
+            "name": "trinkets-icon"
+        },
+        {
+            "name": "trinkets-inhand-left"
+        },
+        {
+            "name": "trinkets-inhand-right"
+        }
+    ]
+}
